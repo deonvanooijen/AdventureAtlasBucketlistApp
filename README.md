@@ -21,16 +21,16 @@ This Bucketlist App was created during an Udemy course by Vin Norman, in order t
 * RecyclerView
 * Array Adapter
 * ViewGroup
- - RelativeLayout
- - LinearLayout
- - ScrollView
+  - RelativeLayout
+  - LinearLayout
+  - ScrollView
 
 * UI components
- - TextView
- - CardView
- - ImageView
- - Button
- - RatingBar
+  - TextView
+  - CardView
+  - ImageView
+  - Button
+  - RatingBar
 
 * Explicit Intent to open other Activities
 * FindViewById
